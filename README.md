@@ -1,5 +1,6 @@
-# Malaria_CNNProject
 This is a project for deep learning class where I built Convolutional neural network for malaria detection from cell images. 
+
+# Malaria_CNNProject
 # Validation Accuracy - 94.6%
 # AUC-ROC SCORE - 98%
 # Training Accuracy - 89.22%
